@@ -1,5 +1,5 @@
 # falling_chain
-1.  Load one of the 5 falling chain videos (L1.MOV, L2.MOV, L3.MOV, L4.MOV, L5.MOV) into Tracker.
+1.  Load one of the 5 falling chain videos (L1.MOV, L2.MOV, L3.MOV, L4.MOV, L5.MOV) into Tracker (https://physlets.org/tracker/).
 2.  Click on the Clip Settings icon and set frame rate to 400/s.
 3.  Click on the Calibration setting and select New Calibration Stick.
 4.  Shift-click the top and bottom of the meter stick and set length to 1m.
